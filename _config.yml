@@ -1,12 +1,13 @@
 name: AdrianUribarri
 favicon: null
 layout_spectrum: 0.8
+title: Adrian Uribarri
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-6293149-12
   facebook: null
   twitter: null
 opengraph:
